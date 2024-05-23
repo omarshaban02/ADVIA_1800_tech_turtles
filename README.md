@@ -1,5 +1,7 @@
 # ADVIA 1800 Prototype
 
+![prototype_image](assets/prototype_image.jpg)
+
 ## Team: Tech Turtles
 
 ### Team Members:
@@ -12,6 +14,8 @@
 - [Camellia Marwan](https://github.com/camelliamarwan)
 
 ## Project Overview:
+
+![Topview](assets/upper%20view%202.png)
 This project involves the development of a prototype for the ADVIA 1800, a crucial piece of medical equipment used for high-throughput clinical chemistry analysis. The prototype is designed and built as part of the Medical Equipment 2 course, under the supervision of Dr. Eman Ayman, in collaboration with Siemens Healthineers.
 
 ### Key Features of Our ADVIA 1800 Prototype:
