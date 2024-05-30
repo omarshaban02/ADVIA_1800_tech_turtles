@@ -60,4 +60,4 @@ This project involves the development of a prototype for the ADVIA 1800, a cruci
 
 ## Acknowledgments:
 - We extend our gratitude to Dr. Eman Ayman for her guidance and support throughout this project.
-- Special thanks to Siemens Healthineers for their collaboration and contributions to our project.
+- Special thanks to Siemens Healthineers for their supervision of our project.
