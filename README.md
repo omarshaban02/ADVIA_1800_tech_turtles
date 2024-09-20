@@ -61,3 +61,60 @@ This project involves the development of a prototype for the ADVIA 1800, a cruci
 ## Acknowledgments:
 - We extend our gratitude to Dr. Eman Ayman for her guidance and support throughout this project.
 - Special thanks to Siemens Healthineers for their supervision of our project.
+
+## Contributors:
+<table>
+  <tr>
+<td align="center">
+    <a href="https://github.com/AbdulrahmanGhitani" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/114954706?v=4" width="150px;" alt="Abdulrahman Shawky"/>
+    <br />
+    <sub><b>Abdulrahman Shawky</b></sub></a>
+</td>
+<td align="center">
+    <a href="https://github.com/omarnasser0" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100535160?v=4" width="150px;" alt="omarnasser0"/>
+    <br />
+    <sub><b>Omar Abdulnasser</b></sub></a>
+</td>
+<td align="center">
+    <a href="https://github.com/AhmedKamalMohammedElSayed" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/96977876?v=4" width="150px;" alt="Ahmed Kamal"/>
+    <br />
+    <sub><b>Ahmed Kamal</b></sub></a>
+</td>
+       <td align="center">
+      <a href="https://github.com/Mahmoudm007" target="_black">
+        <img
+          src="https://avatars.githubusercontent.com/u/101353088?v=4"
+          width="150px;"
+          alt="Mahmoud Mohamed"
+        />
+        <br />
+        <sub><b>Mahmoud Mohamed</b></sub></a
+      >
+    </td>
+    <td align="center">
+      <a href="https://github.com/zoz-hf" target="_black">
+        <img
+          src="https://avatars.githubusercontent.com/u/99608059?v=4"
+          width="150px;"
+          alt="Ziyad ElFayoumy"
+        />
+        <br />
+        <sub><b>Ziyad ElFayoumy</b></sub></a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/amg-eng" target="_black">
+        <img
+          src="https://avatars.githubusercontent.com/u/101107538?v=4"
+          width="150px;"
+          alt="Amgad Atef"
+        />
+        <br />
+        <sub><b>Amgad Atef</b></sub></a>
+    </td>
+    
+  </tr>
+ </table>
+
